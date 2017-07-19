@@ -1,0 +1,1 @@
+Kod motywacyjny stworzony na potrzeby procesu rekrutacji
