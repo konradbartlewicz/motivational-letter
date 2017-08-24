@@ -22,7 +22,7 @@ class AppLyForAPosition extends Component{
                 "Podstawy GITa",
                 "JQuery",
                 "(Skuteczne) przeszukiwanie stackoverflow :)",
-                "Obecnie zaczynam naukę Ruby on Rails"
+                "Obecnie zaczynam naukę Node.js"
             ],
 
             hobbies : {
